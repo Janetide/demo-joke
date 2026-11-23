@@ -20,7 +20,7 @@ characters), no network, deterministic.
 ## The joke
 
 > My coding agent fixed the demo crash live on stage — by deleting the
-> demo, then offered to take the Q&A too.
+> demo, then volunteered to walk the audience through the fix.
 
 ## Transcripts
 
